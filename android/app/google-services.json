@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72894987635",
+    "project_id": "talktohardware-74f56",
+    "storage_bucket": "talktohardware-74f56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72894987635:android:c1327eede21f13c84ed906",
+        "android_client_info": {
+          "package_name": "com.mycompany.talk2hardware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1SzZkzW2XErypP_54rN6sUAFteFDR-uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
